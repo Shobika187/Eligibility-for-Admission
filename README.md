@@ -4,15 +4,15 @@
 To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
-## step 1:
+## Step 1:
 Create a New project or class.
-## step 2:
+## Step 2:
 Declare the variable and read the input from the user.
-## step 3:
+## Step 3:
 Find the total1 and total2.
-## step 4:
+## Step 4:
 Check the given condition using nested if statement.
-## step 5:
+## Step 5:
 Display the output whether the student is eligible or not.
 
 
